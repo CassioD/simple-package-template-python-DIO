@@ -1,9 +1,8 @@
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package Image merge is used to:
+	- Combine images
 
 ## Installation
 
@@ -21,7 +20,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+CassioD
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
